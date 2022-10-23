@@ -41,5 +41,8 @@ What is the earliest birth year (when the oldest person was born), most recent b
 
 # The Interactive Experience
 For a more interactive experience, I wrote a script that took raw input in the terminal to present the statistics. Below screenshots show the results after requesting for information in Chicago for the month of January on Sunday:
-![22]![33](https://user-images.githubusercontent.com/55964026/197407092-f152b509-c798-44c2-b8df-91590dca970b.png)
-(https://user-images.githubusercontent.com/55964026/197407053-9e112629-3b85-4381-a6e7-63df64fd93d3.png)
+
+![22](https://user-images.githubusercontent.com/55964026/197407182-2f49e7d9-e7d7-4988-997f-371f734052c5.png)
+
+![33](https://user-images.githubusercontent.com/55964026/197407194-ffb217dd-fc4a-4027-b1a0-da945ec1965c.png)
+
